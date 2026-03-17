@@ -6,7 +6,7 @@ Write a simple python program to Generate Matrix, Codeword, Hamming weight, Synd
 # Tools required
 Python IDE
 # Program
-```
+```python
 import numpy as np
 
 pb = []
